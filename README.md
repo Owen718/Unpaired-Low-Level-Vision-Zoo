@@ -45,5 +45,3 @@ The following content is constantly updated, welcome continuous attention!
 - Unpaired Image Enhancement with Quality-Attention Generative Adversarial Network (ACMMM2020) [[paper](https://dl.acm.org/doi/abs/10.1145/3394171.3413839?casa_token=wGqsIipBJ3cAAAAA:pwAuj3_e6DkpQy-GumcsJ-wS8HB9rZPKHG7TXNYvxRvZ_Anf1HAps1yoAWXexneGgQAHUd0JF15N0RQ)]
 - Global and Local Enhancement Networks for Paired and Unpaired Image Enhancement (ECCV2020) [[paper](https://link.springer.com/chapter/10.1007/978-3-030-58595-2_21)]
 - Deep Photo Enhancer: Unpaired Learning for Image Enhancement from Photographs with GANs (CVPR2018) [[paper](https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/1567.pdf)][[code](https://github.com/nothinglo/Deep-Photo-Enhancer)]
-
-...
