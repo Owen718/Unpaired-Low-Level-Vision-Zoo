@@ -1,4 +1,4 @@
-# Unpaired-Low-Level-Vision-Zoo [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
+# Unpaired-Low-Level-Vision-Zoo ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 By [Xiang Chen](https://cxtalk.github.io/), Jiyang Lu.
 
