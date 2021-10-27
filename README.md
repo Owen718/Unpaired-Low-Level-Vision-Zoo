@@ -51,7 +51,7 @@ The following content is constantly updated, welcome continuous attention!
 
 - Unpaired Image-to-Image Translation via Latent Energy Transport (CVPR2021) [[paper](https://arxiv.org/abs/2012.00649)][[code](https://github.com/YangNaruto/latent-energy-transport)]
 - Instance-wise Hard Negative Example Generation for Contrastive Learning in Unpaired Image-to-Image Translation (ICCV2021) [[paper](https://arxiv.org/abs/2108.04547)]
-- Semantically Robust Unpaired Image Translation for Data with Unmatched Semantics Statistics (ICCV2021) [[paper](https://arxiv.org/abs/2012.04932]
+- Semantically Robust Unpaired Image Translation for Data with Unmatched Semantics Statistics (ICCV2021) [[paper](https://arxiv.org/abs/2012.04932)]
 - Deformation-Aware Unpaired Image Translation for Pose Estimation on Laboratory Animals (CVPR2020) [[paper](https://arxiv.org/abs/2001.08601)]
 - One-to-one Mapping for Unpaired Image-to-image Translation (WACV2020) [[paper](https://ieeexplore.ieee.org/document/9093622)]
 - Domain Bridge for Unpaired Image-to-Image Translation and Unsupervised Domain Adaptation (WACV2020) [[paper](https://arxiv.org/abs/1910.10563)]
