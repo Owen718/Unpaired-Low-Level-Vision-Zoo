@@ -50,13 +50,20 @@ The following content is constantly updated, welcome continuous attention!
 ### Image Translation
 
 - Unpaired Image-to-Image Translation via Latent Energy Transport (CVPR2021) [[paper](https://arxiv.org/abs/2012.00649)][[code](https://github.com/YangNaruto/latent-energy-transport)]
+- Memory-Guided Unsupervised Image-to-Image Translation (CVPR2021) [[paper](https://arxiv.org/abs/2104.05170)]
+- Dual Contrastive Learning for Unsupervised Image-to-Image Translation (CVPRW2021) [[paper](https://arxiv.org/abs/2104.07689)]
+- Rethinking the Truly Unsupervised Image-to-Image Translation (ICCV2021) [[paper](https://arxiv.org/abs/2006.06500)]
 - Instance-wise Hard Negative Example Generation for Contrastive Learning in Unpaired Image-to-Image Translation (ICCV2021) [[paper](https://arxiv.org/abs/2108.04547)]
 - Semantically Robust Unpaired Image Translation for Data with Unmatched Semantics Statistics (ICCV2021) [[paper](https://arxiv.org/abs/2012.04932)]
 - Deformation-Aware Unpaired Image Translation for Pose Estimation on Laboratory Animals (CVPR2020) [[paper](https://arxiv.org/abs/2001.08601)]
+- DUNIT: Detection-Based Unsupervised Image-to-Image Translation (CVPR2020) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Bhattacharjee_DUNIT_Detection-Based_Unsupervised_Image-to-Image_Translation_CVPR_2020_paper.pdf)]
+- Reusing Discriminators for Encoding: Towards Unsupervised Image-to-Image Translation (CVPR2020) [[paper](https://arxiv.org/abs/2003.00273)][[code](https://github.com/alpc91/NICE-GAN-pytorch)]
 - One-to-one Mapping for Unpaired Image-to-image Translation (WACV2020) [[paper](https://ieeexplore.ieee.org/document/9093622)]
 - Domain Bridge for Unpaired Image-to-Image Translation and Unsupervised Domain Adaptation (WACV2020) [[paper](https://arxiv.org/abs/1910.10563)]
 - CrossNet: Latent Cross-Consistency for Unpaired Image Translation (WACV2020) [[paper](https://arxiv.org/abs/1901.04530v2)]
 - Homomorphic Latent Space Interpolation for Unpaired Image-to-image Translation (CVPR2019) [[paper](https://ieeexplore.ieee.org/document/8954444)]
+- TransGaGa: Geometry-Aware Unsupervised Image-To-Image Translation (CVPR2019) [[paper](https://arxiv.org/abs/1904.09571v1)][[code](https://wywu.github.io/projects/TGaGa/TGaGa.html)]
+- Few-Shot Unsupervised Image-to-Image Translation (ICCV2019) [[paper](http://ieeexplore.ieee.org/document/9010865)][[code](https://github.com/NVlabs/FUNIT)]
 - Co-Evolutionary Compression for Unpaired Image Translation (ICCV2019) [[paper](https://arxiv.org/abs/1907.10804)]
 - Attribute-Driven Spontaneous Motion in Unpaired Image Translation (ICCV2019) [[paper](https://arxiv.org/abs/1907.01452v2)]
 
